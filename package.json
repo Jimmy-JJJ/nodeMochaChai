@@ -1,0 +1,24 @@
+{
+  "name": "jsseleniummocha",
+  "version": "1.0.0",
+  "description": "JavaScript testing project using Selenium and Mocha libraries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "selenium",
+    "mocha",
+    "test",
+    "testing",
+    "nodejs"
+  ],
+  "author": "Jakub Brzeżny",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^10.2.0",
+    "selenium": "^2.20.0",
+    "selenium-webdriver": "^4.8.0"
+  }
+}
